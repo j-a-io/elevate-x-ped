@@ -11,7 +11,7 @@ body, html {
     height: 100%;
 } */
 
-.navbar-brand, img {
+.navbar-brand img {
     height: 50px;
 }
 
